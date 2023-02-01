@@ -10,11 +10,11 @@ int total;// soma dos dados;
 printf("\nPreencha com as seguintes informacoes sobre a Dengue no Brasil");
 printf("\n");
 printf("Casos suspeitos: \n");
-scanf("%d", &numero_suspeitos);
+	scanf("%d", &numero_suspeitos);
 printf("Casos confirmados: \n");
-scanf("%d", &numero_confirmados);
+	scanf("%d", &numero_confirmados);
 printf("Quantidade de mortes: \n");
-scanf("%d", &numero_mortes);
+	scanf("%d", &numero_mortes);
 
 printf("Diante dos dados computados , segue a tabela que apresenta a situação atual da dengue no Brasil\n");
 
